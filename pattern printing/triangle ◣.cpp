@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main (){
-    // right angle triangle ◺
+    // right angle triangle ◣
     int size;
     cout<<"enter the size : ";
     cin>>size;
