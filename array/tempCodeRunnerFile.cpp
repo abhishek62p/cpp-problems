@@ -1,0 +1,3 @@
+else{
+        //     min=array[i];
+        // }
