@@ -1,3 +1,0 @@
-else{
-        //     min=array[i];
-        // }
